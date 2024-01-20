@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+}
+
+body,h1,p,ul,ol,li{
+    margin: 0;
+    padding:0;
+}
+
+.bodydiv{
+    background-color: cadetblue;
+    height:150px;
+    width:200px;
+    /* padding: 40px; */
+    margin: 40px;
+
+    flex-direction: row;
+    /* justify-content: center; */
+
+}
+
+.bookname{
+    justify-content: center;
+}
+
+button{
+    width:fit-content;
+    height:fit-content;
+    background-color: aqua;
+    color: white;
+    
+ }
+ /*
+.bookname{
+    height: 40px;
+    width: 40px;
+} */
