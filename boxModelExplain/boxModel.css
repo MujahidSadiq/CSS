@@ -1,0 +1,18 @@
+.inbody{
+background-color: aquamarine;    
+/* height: 200px;
+width: 400px; */
+padding: 30px;
+border:20px black solid;
+margin: 20px;
+/* display:flex; */
+flex-wrap: wrap;
+}
+.indiv{
+    background-color: rgb(240, 160, 13);    
+    height: 200px;
+    width: 200px;
+    padding: 30px;
+    border:20px rgb(240, 7, 7) solid;
+    /* margin: 20px; */
+}
