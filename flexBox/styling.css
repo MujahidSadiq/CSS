@@ -1,0 +1,52 @@
+h3{
+    color:yellowgreen;
+   
+    
+    /* background-color: blue; */
+    
+}
+
+.container{
+    height:1000px;
+    background-color: aqua;
+    width: 400px;
+    display:flex;
+     flex-direction:column; 
+     flex-wrap:wrap;
+     margin: 100px;
+     border:30px black solid ;
+     padding :30px;
+    /* flex-direction: row; */
+    /* flex-direction: column-reverse; */
+    /* flex-direction: column; */
+    /* flex-direction: row-reverse; */
+     /* display:flex; this thing make container to flex ,flex is a inline property */
+}
+
+
+
+ .items{
+    height: 100px;
+    width: 100px;
+     margin:10px; 
+     padding:100px;
+     border:20px solid black;
+} 
+
+
+.item1{
+    background-color: brown;
+   
+}
+.item2{
+    background-color:blueviolet;
+   
+}
+.item3{
+    background-color:wheat;
+    
+}
+.item4{
+    background-color:yellowgreen;
+   
+}
