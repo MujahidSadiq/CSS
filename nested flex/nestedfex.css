@@ -1,0 +1,29 @@
+.container{
+    height: 300px;
+    width: 300px;
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+}
+
+.subcontainer{
+    height: 100px;
+    font-size: xx-large;
+   background-color: blueviolet;
+   text-align: center;
+}
+.first{
+    background-color: aqua;
+}
+.second{
+    display: flex;
+    flex-grow: 1;
+    text-align: center;
+   
+} 
+.third{
+    background-color: brown;
+}
+.second.a{
+    text-align: center;
+}
